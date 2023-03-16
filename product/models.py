@@ -5,6 +5,9 @@ from django.db import models
 class User(models.Model):
     name = models.CharField(max_length=10)
     age = models.IntegerField()
+    user_id = models.CharField(max_length=20, null=True)
+    user_pw = models.CharField(max_length=20, null=True)
+    email = models.CharField(max_length=30, null=True)
 
 class Scholarship(models.Model):
     title = models.CharField(max_length=100)
