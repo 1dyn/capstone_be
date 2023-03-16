@@ -1,0 +1,1517 @@
+[
+ {
+  "model": "product.scholarship",
+  "pk": 1,
+  "fields": {
+    "title": "충남 예체능 공연활동지원 장학 (2022년 하반기)",
+    "institution": "충청남도인재육성institution",
+    "type": "장학금, 기타장학",
+    "personnel_num": "총 14명 선발",
+    "benefit": "활동 지원 : 최대 100만원",
+    "target": "초등학생, 중학생, 고등학생, 대학생",
+    "start_date": "2022-07-22",
+    "end_date": "2022-11-18",
+    "view_num": 187
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 2,
+  "fields": {
+    "title": "당진시 학자금대출 이자지원 (2022년)",
+    "institution": "당진시",
+    "type": "대출지원",
+    "personnel_num": "인원 미정",
+    "benefit": "대출 지원 : 최대 -만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-10-04",
+    "end_date": "2022-11-18",
+    "view_num": 82
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 3,
+  "fields": {
+    "title": "안산시 등록금 반값 지원 (2022년 2학기)",
+    "institution": "안산시",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 100만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-10-04",
+    "end_date": "2022-11-18",
+    "view_num": 213
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 4,
+  "fields": {
+    "title": "평창장학회 장학 (2022년도 2차)",
+    "institution": "평창장학회",
+    "type": "장학금",
+    "personnel_num": "총 530명 선발",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-10-24",
+    "end_date": "2022-11-18",
+    "view_num": 463
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 5,
+  "fields": {
+    "title": "강원도청년 면접활동비 지원",
+    "institution": "강원도일자리institution",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 15만원",
+    "target": "청년, 기타/일반",
+    "start_date": "2022-09-01",
+    "end_date": "2022-11-18",
+    "view_num": 132
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 6,
+  "fields": {
+    "title": "횡성군 대학생 등록금 지원 (2022년)",
+    "institution": "횡성인재육성장학회",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 150만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-11-04",
+    "end_date": "2022-11-18",
+    "view_num": 74
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 7,
+  "fields": {
+    "title": "안동시 학자금대출 이자지원 (2022년)",
+    "institution": "안동시",
+    "type": "대출지원",
+    "personnel_num": "인원 미정",
+    "benefit": "대출 지원 : 최대 -만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-10-20",
+    "end_date": "2022-11-18",
+    "view_num": 45
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 8,
+  "fields": {
+    "title": "삼성화재 교통사고유자녀 장학 (2023년)",
+    "institution": "아이들과미래institution",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "초등학생, 중학생, 고등학생",
+    "start_date": "2022-11-01",
+    "end_date": "2022-11-18",
+    "view_num": 121
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 9,
+  "fields": {
+    "title": "전기공사공제조합 장학 (2023년)",
+    "institution": "전기공사공제조합장학회",
+    "type": "장학금",
+    "personnel_num": "총 00명 선발",
+    "benefit": "장학금지급 : 최대 500만원",
+    "target": "대학생",
+    "start_date": "2022-11-07",
+    "end_date": "2022-11-18",
+    "view_num": 598
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 10,
+  "fields": {
+    "title": "재능기부 문화예술인 활동비 지원사업",
+    "institution": "institution법인 빛이나",
+    "type": "기타장학",
+    "personnel_num": "총 2명 선발",
+    "benefit": "활동 지원 : 최대 500만원",
+    "target": "청년, 기타/일반",
+    "start_date": "2022-10-01",
+    "end_date": "2022-11-20",
+    "view_num": 497
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 11,
+  "fields": {
+    "title": "LG유플러스 석박사 산학장학 (2022년)",
+    "institution": "LG유플러스",
+    "type": "장학금, 취업연계/산학장학",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학원생",
+    "start_date": "2022-10-21",
+    "end_date": "2022-11-21",
+    "view_num": 1377
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 12,
+  "fields": {
+    "title": "STX장학institution 장학 (2023년)",
+    "institution": "STX장학institution",
+    "type": "장학금",
+    "personnel_num": "총 20명 선발",
+    "benefit": "장학금지급 : 최대 1,200만원",
+    "target": "대학생",
+    "start_date": "2022-11-07",
+    "end_date": "2022-11-21",
+    "view_num": 4108
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 13,
+  "fields": {
+    "title": "경산시 학자금대출 이자지원 (2022년)",
+    "institution": "경산시",
+    "type": "대출지원",
+    "personnel_num": "인원 미정",
+    "benefit": "대출 지원 : 최대 -만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-11-02",
+    "end_date": "2022-11-23",
+    "view_num": 146
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 14,
+  "fields": {
+    "title": "강원도 생활비 장학 (2022년 2학기)",
+    "institution": "강원인재육성평생교육진흥원",
+    "type": "장학금",
+    "personnel_num": "총 219명 선발",
+    "benefit": "장학금지급 : 최대 50만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-11-07",
+    "end_date": "2022-11-18",
+    "view_num": 184
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 15,
+  "fields": {
+    "title": "녹색 학업장학 (2022년 2차)",
+    "institution": "한국산림복지진흥원",
+    "type": "장학금",
+    "personnel_num": "총 00명 선발",
+    "benefit": "장학금지급 : 최대 300만원",
+    "target": "고등학생, 대학생",
+    "start_date": "2022-11-10",
+    "end_date": "2022-11-18",
+    "view_num": 385
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 16,
+  "fields": {
+    "title": "한국장학institution 학자금대출",
+    "institution": "한국장학institution",
+    "type": "대출지원",
+    "personnel_num": "인원 미정",
+    "benefit": "대출 지원 : 최대 -만원",
+    "target": "대학생, 전문대생, 대학원생",
+    "start_date": "2022-07-06",
+    "end_date": "2022-11-17",
+    "view_num": 295
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 17,
+  "fields": {
+    "title": "한국외대 재직동문교수회 장학",
+    "institution": "한국외대 재직동문교수회",
+    "type": "장학금",
+    "personnel_num": "총 6명 선발",
+    "benefit": "장학금지급 : 최대 150만원",
+    "target": "대학생, 대학원생",
+    "start_date": "2022-11-10",
+    "end_date": "2022-11-24",
+    "view_num": 378
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 18,
+  "fields": {
+    "title": "안성시 청년일자리 사업",
+    "institution": "안성시",
+    "type": "취업연계/산학장학, 근로장학",
+    "personnel_num": "총 9명 선발",
+    "benefit": "근로비/수당 : 최대 225만원",
+    "target": "청년, 기타/일반",
+    "start_date": "2022-09-29",
+    "end_date": "2022-11-25",
+    "view_num": 203
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 19,
+  "fields": {
+    "title": "고양시 장애인 일자리사업",
+    "institution": "고양시",
+    "type": "취업연계/산학장학, 근로장학",
+    "personnel_num": "총 231명 선발",
+    "benefit": "근로비/수당 : 최대 200만원",
+    "target": "기타/일반",
+    "start_date": "2022-11-23",
+    "end_date": "2022-11-25",
+    "view_num": 73
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 20,
+  "fields": {
+    "title": "충남 한뿌리 장학",
+    "institution": "충청남도인재육성institution",
+    "type": "장학금",
+    "personnel_num": "총 10명 선발",
+    "benefit": "장학금지급 : 최대 100만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-10-27",
+    "end_date": "2022-11-25",
+    "view_num": 867
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 21,
+  "fields": {
+    "title": "덕신하우징 건축공학 장학",
+    "institution": "덕신하우징",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생",
+    "start_date": "2022-11-02",
+    "end_date": "2022-11-18",
+    "view_num": 119
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 22,
+  "fields": {
+    "title": "숲과나눔 인재양성장학 (2023년)",
+    "institution": "숲과나눔",
+    "type": "장학금, 연수/연구장학",
+    "personnel_num": "인원 미정",
+    "benefit": "연수/연구지원 : 최대 120만원",
+    "target": "대학원생",
+    "start_date": "2022-11-09",
+    "end_date": "2022-11-25",
+    "view_num": 1187
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 23,
+  "fields": {
+    "title": "경원장학institution 장학 (2022년)",
+    "institution": "경원장학institution",
+    "type": "장학금",
+    "personnel_num": "총 35명 선발",
+    "benefit": "장학금지급 : 최대 400만원",
+    "target": "고등학생, 대학생",
+    "start_date": "2022-10-17",
+    "end_date": "2022-11-25",
+    "view_num": 1621
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 24,
+  "fields": {
+    "title": "원장institution 장학 (2022년)",
+    "institution": "원장institution",
+    "type": "장학금",
+    "personnel_num": "총 15명 선발",
+    "benefit": "장학금지급 : 최대 300만원",
+    "target": "대학생, 대학원생",
+    "start_date": "2022-10-14",
+    "end_date": "2022-11-25",
+    "view_num": 1949
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 25,
+  "fields": {
+    "title": "녹산학술장학institution 장학 (2022년)",
+    "institution": "녹산학술장학institution",
+    "type": "장학금",
+    "personnel_num": "총 2명 선발",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생",
+    "start_date": "2022-10-24",
+    "end_date": "2022-11-25",
+    "view_num": 927
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 26,
+  "fields": {
+    "title": "남양주 장애인 꿈사다리 장학금",
+    "institution": "남양주다산장애인자립생활센터",
+    "type": "장학금",
+    "personnel_num": "총 5명 선발",
+    "benefit": "장학금지급 : 최대 100만원",
+    "target": "고등학생, 대학생, 전문대생",
+    "start_date": "2022-11-01",
+    "end_date": "2022-11-25",
+    "view_num": 151
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 27,
+  "fields": {
+    "title": "관정이종환 장학 (2023년)",
+    "institution": "관정이종환교육institution",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 2,200만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-11-11",
+    "end_date": "2022-11-25",
+    "view_num": 1694
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 28,
+  "fields": {
+    "title": "고양시 대학생 본인부담 등록금 지원 (2022년 2학기)",
+    "institution": "고양시",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 100만원",
+    "target": "대학생",
+    "start_date": "2022-09-13",
+    "end_date": "2022-11-30",
+    "view_num": 275
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 29,
+  "fields": {
+    "title": "파주시 청년 전세자금 대출이자지원 (2022년)",
+    "institution": "파주시",
+    "type": "대출지원",
+    "personnel_num": "총 -명 선발",
+    "benefit": "대출 지원 : 최대 -만원",
+    "target": "청년, 기타/일반",
+    "start_date": "2022-07-04",
+    "end_date": "2022-11-30",
+    "view_num": 77
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 30,
+  "fields": {
+    "title": "경기도 청년기본소득 (2022년 4분기)",
+    "institution": "경기도",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 100만원",
+    "target": "기타/일반",
+    "start_date": "2022-11-01",
+    "end_date": "2022-11-30",
+    "view_num": 1943
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 31,
+  "fields": {
+    "title": "사회적기업 육성사업",
+    "institution": "한국사회적기업진흥원",
+    "type": "기타장학",
+    "personnel_num": "총 750명 선발",
+    "benefit": "기타혜택 : 최대 -만원",
+    "target": "기타/일반",
+    "start_date": "2022-10-18",
+    "end_date": "2022-11-30",
+    "view_num": 318
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 32,
+  "fields": {
+    "title": "장병 자기개발비용 지원사업",
+    "institution": "국방부",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 -만원",
+    "target": "기타/일반",
+    "start_date": "2022-01-03",
+    "end_date": "2022-11-30",
+    "view_num": 386
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 33,
+  "fields": {
+    "title": "포니정institution 대학생 주거지원",
+    "institution": "포니정institution",
+    "type": "기숙사/주거지원",
+    "personnel_num": "총 2명 선발",
+    "benefit": "거주 지원 : 최대 -만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-11-14",
+    "end_date": "2022-11-27",
+    "view_num": 1182
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 34,
+  "fields": {
+    "title": "강원 인제군 저소득주민자녀 장학",
+    "institution": "인제군",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 150만원",
+    "target": "중학생, 고등학생, 대학생",
+    "start_date": "2022-11-15",
+    "end_date": "2022-11-28",
+    "view_num": 49
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 35,
+  "fields": {
+    "title": "전라북도 대학생 직무인턴 모집",
+    "institution": "전북창조경제혁신센터",
+    "type": "근로장학",
+    "personnel_num": "총 154명 선발",
+    "benefit": "근로비/수당 : 최대 300만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-11-09",
+    "end_date": "2022-11-28",
+    "view_num": 313
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 36,
+  "fields": {
+    "title": "경희대 장학사정관 장학",
+    "institution": "경희대학교 국제캠퍼스",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생",
+    "start_date": "2022-11-14",
+    "end_date": "2022-11-30",
+    "view_num": 192
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 37,
+  "fields": {
+    "title": "의정부시 취창업 성공축하금",
+    "institution": "신한대학교 청년일자리센터",
+    "type": "기타장학",
+    "personnel_num": "총 500명 선발",
+    "benefit": "기타혜택 : 최대 10만원",
+    "target": "청년",
+    "start_date": "2022-10-01",
+    "end_date": "2022-11-30",
+    "view_num": 46
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 38,
+  "fields": {
+    "title": "동두천시 예술인 재난지원금",
+    "institution": "동두천시",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 150만원",
+    "target": "기타/일반",
+    "start_date": "2022-11-01",
+    "end_date": "2022-11-30",
+    "view_num": 49
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 39,
+  "fields": {
+    "title": "세종청년 구직지원금",
+    "institution": "세종테크노파크",
+    "type": "기타장학",
+    "personnel_num": "총 00명 선발",
+    "benefit": "기타혜택 : 최대 300만원",
+    "target": "청년, 기타/일반",
+    "start_date": "2022-10-01",
+    "end_date": "2022-11-30",
+    "view_num": 75
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 40,
+  "fields": {
+    "title": "이른둥이 재활치료 지원사업 (2023년)",
+    "institution": "아름다운institution",
+    "type": "기타장학",
+    "personnel_num": "총 35명 선발",
+    "benefit": "기타혜택 : 최대 320만원",
+    "target": "기타/일반",
+    "start_date": "2022-10-26",
+    "end_date": "2022-11-30",
+    "view_num": 125
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 41,
+  "fields": {
+    "title": "하계 대학생 재능봉사 캠프 (2022년도 26기)",
+    "institution": "한국장학institution",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 35만원",
+    "target": "대학생, 전문대생, 대학원생",
+    "start_date": "2022-11-11",
+    "end_date": "2022-12-01",
+    "view_num": 999
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 42,
+  "fields": {
+    "title": "공연장 대관료 지원사업 (3차)",
+    "institution": "한국문화예술위원회",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "활동 지원 : 최대 3,000만원",
+    "target": "기타/일반",
+    "start_date": "2022-11-21",
+    "end_date": "2022-12-05",
+    "view_num": 218
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 43,
+  "fields": {
+    "title": "서강대 동문 장학금 (2023년 1학기)",
+    "institution": "서강동문장학회",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생",
+    "start_date": "2022-11-09",
+    "end_date": "2022-12-05",
+    "view_num": 363
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 44,
+  "fields": {
+    "title": "산청군 향토 장학 (2022년 하반기)",
+    "institution": "산청군향토장학회",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 50만원",
+    "target": "초등학생, 중학생, 고등학생",
+    "start_date": "2022-11-07",
+    "end_date": "2022-12-06",
+    "view_num": 199
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 45,
+  "fields": {
+    "title": "삼일문화institution 박사과정 장학 (2023년도 1학기)",
+    "institution": "삼일문화institution",
+    "type": "장학금",
+    "personnel_num": "총 0명 선발",
+    "benefit": "장학금지급 : 최대 500만원",
+    "target": "대학원생, 기타/일반",
+    "start_date": "2022-11-11",
+    "end_date": "2022-12-13",
+    "view_num": 2127
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 46,
+  "fields": {
+    "title": "포천시 대학생 주거복지 장학 (2022년)",
+    "institution": "포천시교육institution",
+    "type": "장학금",
+    "personnel_num": "총 150명 선발",
+    "benefit": "장학금지급 : 최대 240만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-11-21",
+    "end_date": "2022-12-02",
+    "view_num": 110
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 47,
+  "fields": {
+    "title": "양주시 희망동행 일자리사업",
+    "institution": "양주시",
+    "type": "근로장학",
+    "personnel_num": "총 86명 선발",
+    "benefit": "근로비/수당 : 최대 130만원",
+    "target": "기타/일반",
+    "start_date": "2022-11-21",
+    "end_date": "2022-12-02",
+    "view_num": 89
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 48,
+  "fields": {
+    "title": "세종학당institution 장학 (2023년 상반기)",
+    "institution": "세종학당institution",
+    "type": "장학금",
+    "personnel_num": "총 00명 선발",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생, 대학원생",
+    "start_date": "2022-11-18",
+    "end_date": "2022-12-04",
+    "view_num": 1271
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 49,
+  "fields": {
+    "title": "부산 동래구 안락2동 충렬장학",
+    "institution": "충렬장학회",
+    "type": "장학금",
+    "personnel_num": "총 7명 선발",
+    "benefit": "장학금지급 : 최대 100만원",
+    "target": "고등학생, 대학생",
+    "start_date": "2022-12-01",
+    "end_date": "2022-12-09",
+    "view_num": 310
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 50,
+  "fields": {
+    "title": "부산시 중구장학회 장학 (2023년)",
+    "institution": "중구장학회",
+    "type": "장학금",
+    "personnel_num": "총 43명 선발",
+    "benefit": "장학금지급 : 최대 500만원",
+    "target": "고등학생, 대학생",
+    "start_date": "2022-12-12",
+    "end_date": "2023-01-11",
+    "view_num": 462
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 51,
+  "fields": {
+    "title": "포니정 인문연구 장학 (2023년)",
+    "institution": "포니정institution",
+    "type": "장학금",
+    "personnel_num": "총 15명 선발",
+    "benefit": "연수/연구지원 : 최대 2,000만원",
+    "target": "대학원생",
+    "start_date": "2022-11-21",
+    "end_date": "2022-12-18",
+    "view_num": 1068
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 52,
+  "fields": {
+    "title": "고등교육institution 문우림장학",
+    "institution": "한국고등교육institution",
+    "type": "장학금, 기타장학",
+    "personnel_num": "총 10명 선발",
+    "benefit": "장학금지급 : 최대 800만원",
+    "target": "대학생",
+    "start_date": "2022-11-09",
+    "end_date": "2022-12-19",
+    "view_num": 2994
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 53,
+  "fields": {
+    "title": "고등교육institution 인재림장학",
+    "institution": "한국고등교육institution",
+    "type": "장학금, 기타장학",
+    "personnel_num": "총 20명 선발",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생",
+    "start_date": "2022-11-16",
+    "end_date": "2022-12-21",
+    "view_num": 4399
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 54,
+  "fields": {
+    "title": "김포시 장애인 일자리사업",
+    "institution": "김포시",
+    "type": "근로장학",
+    "personnel_num": "총 56명 선발",
+    "benefit": "근로비/수당 : 최대 200만원",
+    "target": "기타/일반",
+    "start_date": "2022-11-21",
+    "end_date": "2022-12-06",
+    "view_num": 45
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 55,
+  "fields": {
+    "title": "한국외대 HUFS Dream 장학 (2022년 2학기)",
+    "institution": "한국외국어대학교",
+    "type": "장학금",
+    "personnel_num": "총 00명 선발",
+    "benefit": "장학금지급 : 최대 100만원",
+    "target": "대학생",
+    "start_date": "2022-11-23",
+    "end_date": "2022-12-07",
+    "view_num": 214
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 56,
+  "fields": {
+    "title": "서울시 손목닥터 지원사업",
+    "institution": "서울시",
+    "type": "기타장학",
+    "personnel_num": "총 18만명 선발",
+    "benefit": "기타혜택 : 최대 10만원",
+    "target": "기타/일반",
+    "start_date": "2022-12-05",
+    "end_date": "2022-12-11",
+    "view_num": 1283
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 57,
+  "fields": {
+    "title": "한국외대 여성동문회 장학",
+    "institution": "한국외국어대학교",
+    "type": "장학금",
+    "personnel_num": "총 2명 선발",
+    "benefit": "장학금지급 : 최대 100만원",
+    "target": "대학생",
+    "start_date": "2022-11-30",
+    "end_date": "2022-12-09",
+    "view_num": 115
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 58,
+  "fields": {
+    "title": "인천시 동구 근로장학",
+    "institution": "인천동구장학institution",
+    "type": "근로장학",
+    "personnel_num": "총 30명 선발",
+    "benefit": "근로비/수당 : 최대 178만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-12-01",
+    "end_date": "2022-12-15",
+    "view_num": 280
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 59,
+  "fields": {
+    "title": "운해장학institution 장학 (2023년)",
+    "institution": "운해장학institution",
+    "type": "장학금",
+    "personnel_num": "총 000명 선발",
+    "benefit": "장학금지급 : 최대 800만원",
+    "target": "대학생",
+    "start_date": "2022-11-30",
+    "end_date": "2022-12-16",
+    "view_num": 2328
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 60,
+  "fields": {
+    "title": "성남시 예술인 창작지원금",
+    "institution": "성남시",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 100만원",
+    "target": "기타/일반",
+    "start_date": "2022-09-01",
+    "end_date": "2022-12-23",
+    "view_num": 287
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 61,
+  "fields": {
+    "title": "국가장학금 (2023학년 1학기)",
+    "institution": "한국장학institution",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-11-24",
+    "end_date": "2022-12-29",
+    "view_num": 3546
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 62,
+  "fields": {
+    "title": "국가 근로장학 (2023년 1학기)",
+    "institution": "한국장학institution",
+    "type": "근로장학",
+    "personnel_num": "인원 미정",
+    "benefit": "근로비/수당 : 최대 -만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-11-24",
+    "end_date": "2022-12-29",
+    "view_num": 1924
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 63,
+  "fields": {
+    "title": "푸른등대 기부장학금 (2023년 1학기)",
+    "institution": "한국장학institution",
+    "type": "장학금",
+    "personnel_num": "총 1448명 선발",
+    "benefit": "장학금지급 : 최대 400만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-11-24",
+    "end_date": "2022-12-26",
+    "view_num": 5646
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 64,
+  "fields": {
+    "title": "문암장학문화institution 군인자녀 장학 (2022년)",
+    "institution": "문암장학문화institution",
+    "type": "장학금",
+    "personnel_num": "총 7명 선발",
+    "benefit": "장학금지급 : 최대 100만원",
+    "target": "초등학생, 중학생, 고등학생, 대학생",
+    "start_date": "2022-12-01",
+    "end_date": "2022-12-23",
+    "view_num": 183
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 65,
+  "fields": {
+    "title": "아산 MIU 자녀 장학",
+    "institution": "아산사회복지institution",
+    "type": "장학금",
+    "personnel_num": "총 90명 선발",
+    "benefit": "장학금지급 : 최대 300만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-12-01",
+    "end_date": "2022-12-23",
+    "view_num": 933
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 66,
+  "fields": {
+    "title": "고양시 청년둥지론 (2022년 4분기)",
+    "institution": "고양시",
+    "type": "대출지원",
+    "personnel_num": "총 50명 선발",
+    "benefit": "대출 지원 : 최대 5,000만원",
+    "target": "청년",
+    "start_date": "2022-10-04",
+    "end_date": "2022-12-30",
+    "view_num": 327
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 67,
+  "fields": {
+    "title": "오산교육institution 행복기숙사 입사생 모집",
+    "institution": "오산교육institution",
+    "type": "기숙사/주거지원",
+    "personnel_num": "총 70명 선발",
+    "benefit": "거주 지원 : 최대 180만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-12-19",
+    "end_date": "2022-12-30",
+    "view_num": 317
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 68,
+  "fields": {
+    "title": "부산시 중앙동 장학회 장학",
+    "institution": "부산광역시 중구",
+    "type": "장학금",
+    "personnel_num": "총 10명 선발",
+    "benefit": "장학금지급 : 최대 100만원",
+    "target": "중학생, 고등학생, 대학생",
+    "start_date": "2022-12-01",
+    "end_date": "2022-12-30",
+    "view_num": 361
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 69,
+  "fields": {
+    "title": "직업계고 산업체 현장실습 지원금 (2022년)",
+    "institution": "한국장학institution",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 360만원",
+    "target": "고등학생",
+    "start_date": "2022-08-22",
+    "end_date": "2022-12-30",
+    "view_num": 131
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 70,
+  "fields": {
+    "title": "이스라엘 정부초청 장학 (2023-2024년)",
+    "institution": "주한이스라엘대사관",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 -만원",
+    "target": "대학생, 대학원생",
+    "start_date": "2022-11-22",
+    "end_date": "2022-12-30",
+    "view_num": 1299
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 71,
+  "fields": {
+    "title": "같이에듀 대학생 멘토모집",
+    "institution": "청소년그루터기institution",
+    "type": "기타장학",
+    "personnel_num": "총 000명 선발",
+    "benefit": "장학금지급 : 최대 200만원",
+    "target": "대학생, 대학원생",
+    "start_date": "2022-12-14",
+    "end_date": "2023-01-10",
+    "view_num": 9306
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 72,
+  "fields": {
+    "title": "울산광역시 학자금대출 이자지원 (2022년 2학기)",
+    "institution": "울산광역시",
+    "type": "대출지원",
+    "personnel_num": "인원 미정",
+    "benefit": "대출 지원 : 최대 -만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2022-11-23",
+    "end_date": "2022-12-30",
+    "view_num": 80
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 73,
+  "fields": {
+    "title": "경기도 취약계층 의료비 지원사업",
+    "institution": "경기도",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 -만원",
+    "target": "기타/일반",
+    "start_date": "2022-12-01",
+    "end_date": "2022-12-31",
+    "view_num": 85
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 74,
+  "fields": {
+    "title": "용인시 청년 부동산 중개수수료 지원(감면)",
+    "institution": "용인시",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 -만원",
+    "target": "청년, 기타/일반",
+    "start_date": "2022-12-01",
+    "end_date": "2022-12-31",
+    "view_num": 55
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 75,
+  "fields": {
+    "title": "경상남도 청년 임차보증금 이자 지원",
+    "institution": "경상남도",
+    "type": "대출지원",
+    "personnel_num": "인원 미정",
+    "benefit": "대출 지원 : 최대 -만원",
+    "target": "청년, 기타/일반",
+    "start_date": "2022-06-09",
+    "end_date": "2022-12-31",
+    "view_num": 128
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 76,
+  "fields": {
+    "title": "장병내일준비적금",
+    "institution": "국방부",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 -만원",
+    "target": "청년",
+    "start_date": "2022-12-01",
+    "end_date": "2022-12-31",
+    "view_num": 258
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 77,
+  "fields": {
+    "title": "박신양 FUN 장학 (2023년)",
+    "institution": "박신양FUN장학회",
+    "type": "장학금",
+    "personnel_num": "총 00명 선발",
+    "benefit": "장학금지급 : 최대 100만원",
+    "target": "대학생, 기타/일반",
+    "start_date": "2022-10-31",
+    "end_date": "2022-12-31",
+    "view_num": 3671
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 78,
+  "fields": {
+    "title": "해동과학문화institution 해동장학 (2023년)",
+    "institution": "해동과학문화institution",
+    "type": "장학금",
+    "personnel_num": "총 0명 선발",
+    "benefit": "장학금지급 : 최대 1,000만원",
+    "target": "대학생",
+    "start_date": "2022-11-30",
+    "end_date": "2023-01-05",
+    "view_num": 1571
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 79,
+  "fields": {
+    "title": "경희대 우정장학 (2023년 1학기)",
+    "institution": "경희대학교 국제캠퍼스",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생",
+    "start_date": "2022-12-05",
+    "end_date": "2023-01-08",
+    "view_num": 656
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 80,
+  "fields": {
+    "title": "LG이노텍 석박사 산학장학 (2023년)",
+    "institution": "LG이노텍",
+    "type": "취업연계/산학장학",
+    "personnel_num": "인원 미정",
+    "benefit": "기타혜택 : 최대 -만원",
+    "target": "대학원생",
+    "start_date": "2022-11-18",
+    "end_date": "2023-01-09",
+    "view_num": 745
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 81,
+  "fields": {
+    "title": "해양수산부장학(수산후계 장학) (2023년 1학기)",
+    "institution": "농어촌희망institution",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 250만원",
+    "target": "대학생",
+    "start_date": "2022-12-19",
+    "end_date": "2023-01-04",
+    "view_num": 620
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 82,
+  "fields": {
+    "title": "창업지원형 기숙사 입주 모집 (2023년)",
+    "institution": "한국장학institution",
+    "type": "기숙사/주거지원",
+    "personnel_num": "총 195명 선발",
+    "benefit": "거주 지원 : 최대 -만원",
+    "target": "대학생, 전문대생, 대학원생",
+    "start_date": "2022-12-15",
+    "end_date": "2023-01-05",
+    "view_num": 452
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 83,
+  "fields": {
+    "title": "소망교회 소망장학 (2023년)",
+    "institution": "소망교회",
+    "type": "장학금",
+    "personnel_num": "총 00명 선발",
+    "benefit": "장학금지급 : 최대 400만원",
+    "target": "대학생, 대학원생",
+    "start_date": "2022-12-26",
+    "end_date": "2023-01-07",
+    "view_num": 1592
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 84,
+  "fields": {
+    "title": "부산울산경남 협성장학",
+    "institution": "협성문화institution",
+    "type": "장학금",
+    "personnel_num": "총 20명 선발",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생",
+    "start_date": "2022-12-19",
+    "end_date": "2023-01-09",
+    "view_num": 796
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 85,
+  "fields": {
+    "title": "건설근로자 자녀 협성장학 (2023년)",
+    "institution": "협성문화institution",
+    "type": "장학금",
+    "personnel_num": "총 20명 선발",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생",
+    "start_date": "2022-12-19",
+    "end_date": "2023-01-09",
+    "view_num": 361
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 86,
+  "fields": {
+    "title": "대한교통학회 장학 (2023년)",
+    "institution": "대한교통학회",
+    "type": "장학금",
+    "personnel_num": "총 8명 선발",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생",
+    "start_date": "2022-11-21",
+    "end_date": "2023-01-10",
+    "view_num": 1156
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 87,
+  "fields": {
+    "title": "월정김용복 장학 (2023년)",
+    "institution": "용복장학회",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생",
+    "start_date": "2023-01-01",
+    "end_date": "2023-01-10",
+    "view_num": 1737
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 88,
+  "fields": {
+    "title": "평택시장학관 입사생 모집 (2023년)",
+    "institution": "평택시",
+    "type": "기숙사/주거지원",
+    "personnel_num": "총 150명 선발",
+    "benefit": "거주 지원 : 최대 -만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2023-01-01",
+    "end_date": "2023-01-12",
+    "view_num": 107
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 89,
+  "fields": {
+    "title": "강화군 장학관 입사생 선발 (정기모집)",
+    "institution": "강화군",
+    "type": "기숙사/주거지원",
+    "personnel_num": "총 187명 선발",
+    "benefit": "거주 지원 : 최대 -만원",
+    "target": "대학생, 전문대생, 대학원생",
+    "start_date": "2022-12-15",
+    "end_date": "2022-12-23",
+    "view_num": 24
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 90,
+  "fields": {
+    "title": "부산시 수영구 장학 (2023년)",
+    "institution": "수영구장학institution",
+    "type": "장학금",
+    "personnel_num": "총 50명 선발",
+    "benefit": "장학금지급 : 최대 200만원",
+    "target": "중학생, 고등학생, 대학생",
+    "start_date": "2022-12-20",
+    "end_date": "2023-01-20",
+    "view_num": 240
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 91,
+  "fields": {
+    "title": "기독교대한감리회 장학",
+    "institution": "기독교대한감리회",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 200만원",
+    "target": "대학생, 전문대생, 대학원생",
+    "start_date": "2022-11-25",
+    "end_date": "2023-01-31",
+    "view_num": 999
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 92,
+  "fields": {
+    "title": "장학금 받아본 경험자 모집 장학금",
+    "institution": "드림스폰",
+    "type": "장학금",
+    "personnel_num": "총 100명 선발",
+    "benefit": "장학금지급 : 최대 100만원",
+    "target": "초등학생, 중학생, 고등학생, 대학생, 전문대생, 대학원생, 청년, 기타/일반",
+    "start_date": "2023-01-01",
+    "end_date": "2023-01-31",
+    "view_num": 1572
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 93,
+  "fields": {
+    "title": "<제3회 페퍼저축은행&AI페퍼스 희망장학생 모집>",
+    "institution": "페퍼저축은행",
+    "type": "장학금",
+    "personnel_num": "총 100명 선발",
+    "benefit": "장학금지급 : 최대 250만원",
+    "target": "대학생, 전문대생",
+    "start_date": "2023-01-16",
+    "end_date": "2023-02-02",
+    "view_num": 1428
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 94,
+  "fields": {
+    "title": "농식품인재 장학금",
+    "institution": "농어촌희망institution",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 250만원",
+    "target": "대학생",
+    "start_date": "2022-12-19",
+    "end_date": "2023-01-04",
+    "view_num": 189
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 95,
+  "fields": {
+    "title": "대구시 지역문화예술지원사업",
+    "institution": "대구문화예술진흥원",
+    "type": "기타장학",
+    "personnel_num": "인원 미정",
+    "benefit": "활동 지원 : 최대 100만원",
+    "target": "기타/일반",
+    "start_date": "2022-12-12",
+    "end_date": "2023-01-06",
+    "view_num": 86
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 96,
+  "fields": {
+    "title": "양천장학회 장학 (2023년)",
+    "institution": "양천장학회",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 200만원",
+    "target": "대학생",
+    "start_date": "2022-12-20",
+    "end_date": "2023-01-10",
+    "view_num": 364
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 97,
+  "fields": {
+    "title": "충남서울학사관 입사생 모집 (2023년)",
+    "institution": "충청남도인재육성institution",
+    "type": "기숙사/주거지원",
+    "personnel_num": "총 280명 선발",
+    "benefit": "거주 지원 : 최대 -만원",
+    "target": "대학생, 전문대생, 대학원생",
+    "start_date": "2023-01-02",
+    "end_date": "2023-01-10",
+    "view_num": 62
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 98,
+  "fields": {
+    "title": "포항학사 입사생 모집 (2023년)",
+    "institution": "포항시장학회",
+    "type": "기숙사/주거지원",
+    "personnel_num": "총 149명 선발",
+    "benefit": "거주 지원 : 최대 -만원",
+    "target": "대학생",
+    "start_date": "2022-12-27",
+    "end_date": "2023-01-13",
+    "view_num": 34
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 99,
+  "fields": {
+    "title": "종로구장학회 장학 (2023년)",
+    "institution": "종로구장학회",
+    "type": "장학금",
+    "personnel_num": "총 100명 선발",
+    "benefit": "장학금지급 : 최대 400만원",
+    "target": "대학생",
+    "start_date": "2023-01-02",
+    "end_date": "2023-01-16",
+    "view_num": 124
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 100,
+  "fields": {
+    "title": "헝가리 정부초청 장학 (2023-2024년)",
+    "institution": "국립국제교육원",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 -만원",
+    "target": "대학생, 대학원생",
+    "start_date": "2022-11-16",
+    "end_date": "2023-01-16",
+    "view_num": 149
+    }
+ },
+ {
+  "model": "product.scholarship",
+  "pk": 101,
+  "fields": {
+    "title": "외국인 글로벌희망장학 (2023년 1학기)",
+    "institution": "삼성꿈장학institution",
+    "type": "장학금",
+    "personnel_num": "인원 미정",
+    "benefit": "장학금지급 : 최대 500만원",
+    "target": "대학생, 대학원생",
+    "start_date": "2022-11-23",
+    "end_date": "2023-01-16",
+    "view_num": 118
+    }
+ }
+]

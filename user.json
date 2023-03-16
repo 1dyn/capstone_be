@@ -1,0 +1,26 @@
+[
+	{
+		"model" : "product.user",
+		"pk" : 1,
+		"fields" : {
+			"name" : "한동연",
+			"age" : 27
+		}
+	},
+	{
+		"model" : "product.user",
+		"pk" : 2,
+		"fields" : {
+			"name" : "최진영",
+			"age" : 26
+		}
+	},
+	{
+		"model" : "product.user",
+		"pk" : 3,
+		"fields" : {
+			"name" : "정은지",
+			"age" : 24
+		}
+	}
+]

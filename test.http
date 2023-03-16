@@ -1,0 +1,10 @@
+GET http://localhost:8000/user
+
+#GET http://localhost:8000/scholarship
+
+#POST http://localhost:8000/user
+#Content-Type: application/json
+#{
+#    "name": "홍길동",
+#    "age": 23
+#}
