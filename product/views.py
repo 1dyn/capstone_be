@@ -24,5 +24,6 @@ class ScholarshipViewSet(ModelViewSet):
     queryset = Scholarship.objects.all()
     serializer_class = ScholarshipSerializer
     # pagination_class = ScholarshipPageNumberPagination
-    filter_backends = [filters.OrderingFilter]
+    filter_backends = [filters.OrderingFilter, filters.SearchFilter]
     ordering_fields = ["start_date", "end_date", "view_num"]
+    search_fields = ["title", "institution", "type", "benefit", "target"]
