@@ -4,7 +4,7 @@ from rest_framework.viewsets import ModelViewSet
 from rest_framework.pagination import PageNumberPagination
 
 from .models import User, Scholarship
-from .serializer import UserSerializer, ScholarshipListSerializer
+from .serializer import UserSerializer, ScholarshipSerializer
 
 
 # class UserPageNumberPagination(PageNumberPagination):
@@ -22,7 +22,7 @@ class UserViewSet(ModelViewSet):
 
 class ScholarshipViewSet(ModelViewSet):
     queryset = Scholarship.objects.all()
-    serializer_class = ScholarshipListSerializer
+    serializer_class = ScholarshipSerializer
     # pagination_class = ScholarshipPageNumberPagination
     filter_backends = [filters.OrderingFilter, filters.SearchFilter]
     ordering_fields = ["start_date", "end_date", "view_num"]

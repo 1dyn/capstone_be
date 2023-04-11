@@ -17,12 +17,23 @@ class UserSerializer(serializers.ModelSerializer):
         ]
 
 
-class ScholarshipListSerializer(serializers.ModelSerializer):
+class ScholarshipSerializer(serializers.ModelSerializer):
     d_day = serializers.SerializerMethodField()
 
     class Meta:
         model = Scholarship
-        fields = ["id", "title", "institution", "type", "d_day"]
+        fields = [
+            "id",
+            "title",
+            "institution",
+            "type",
+            "benefit",
+            "target",
+            "start_date",
+            "end_date",
+            "view_num",
+            "d_day",
+        ]
         validators = [
             UniqueTogetherValidator(
                 queryset=Scholarship.objects.all(),
